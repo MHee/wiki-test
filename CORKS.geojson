@@ -1,0 +1,904 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -83.7303, 
+          1.2269
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "90/276", 
+        "Leg": 69, 
+        "Coring Penetration (m)": "227.5", 
+        "Core Recovered (m)": "80.94", 
+        "Water Depth": "3460", 
+        "Basement Penetration (m)": "1836", 
+        "Site": 504, 
+        "Numbers of Cores": 29, 
+        "Total Penetration (m)": 489, 
+        "Core Recovered %": "35.6", 
+        "Departure Date": "", 
+        "Location": "Costa Rica Rift - S flank", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "263.0", 
+        "Special Hole Comment": "Wireline CORK 2001; Deepest DSDP/ODP hole; junk below 2000 mbsf; Hole 504B also visited Legs  70, 83, 92, 111, 137, 140,and 148.", 
+        "Hole": "B", 
+        "Time on Hole(dd:hh:mm)": "", 
+        "Arrival Date": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -159.095, 
+          19.342
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "30/244", 
+        "Leg": 136, 
+        "Coring Penetration (m)": "33.7", 
+        "Core Recovered (m)": "12.60", 
+        "Water Depth": "4407", 
+        "Basement Penetration (m)": "", 
+        "Site": 843, 
+        "Numbers of Cores": 4, 
+        "Total Penetration (m)": 318, 
+        "Core Recovered %": "37.4", 
+        "Departure Date": "03/19/91 1800", 
+        "Location": "SW of Oahu", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "R", 
+        "Drilled (m)": "", 
+        "Special Hole Comment": "OSN Pilot Experiment, 1998; now open", 
+        "Hole": "B", 
+        "Time on Hole(dd:hh:mm)": "1:18: 0", 
+        "Arrival Date": "03/18/91 0000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -128.7108, 
+          48.442
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "48/573", 
+        "Leg": 139, 
+        "Coring Penetration (m)": "354.7", 
+        "Core Recovered (m)": "37.36", 
+        "Water Depth": "2421", 
+        "Basement Penetration (m)": "465", 
+        "Site": 857, 
+        "Numbers of Cores": 37, 
+        "Total Penetration (m)": 936, 
+        "Core Recovered %": "10.5", 
+        "Departure Date": "09/03/91 0330", 
+        "Location": "Middle Valley Juan de Fuca Ridge", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "R", 
+        "Drilled (m)": "", 
+        "Special Hole Comment": "CORK 1991; \"basement\" = sill/sediment sequence.", 
+        "Hole": "D", 
+        "Time on Hole(dd:hh:mm)": "10:23:45", 
+        "Arrival Date": "08/23/91 0345"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -128.7088, 
+          48.456
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "25/271", 
+        "Leg": 139, 
+        "Coring Penetration (m)": "155.8", 
+        "Core Recovered (m)": "6.86", 
+        "Water Depth": "2415", 
+        "Basement Penetration (m)": "175", 
+        "Site": 858, 
+        "Numbers of Cores": 16, 
+        "Total Penetration (m)": 433, 
+        "Core Recovered %": "4.4", 
+        "Departure Date": "09/09/91 2300", 
+        "Location": "Middle Valley Juan de Fuca Ridge", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "R", 
+        "Drilled (m)": "", 
+        "Special Hole Comment": "CORK 1991; new CORK 1996", 
+        "Hole": "G", 
+        "Time on Hole(dd:hh:mm)": "6:18:30", 
+        "Arrival Date": "09/03/91 0430"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -126.8705, 
+          48.6985
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "52/260", 
+        "Leg": 146, 
+        "Coring Penetration (m)": "", 
+        "Core Recovered (m)": "", 
+        "Water Depth": "1315", 
+        "Basement Penetration (m)": "0", 
+        "Site": 889, 
+        "Numbers of Cores": 1, 
+        "Total Penetration (m)": 384, 
+        "Core Recovered %": "", 
+        "Departure Date": "10/22/92 0930", 
+        "Location": "Vancouver margin", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "384.5", 
+        "Special Hole Comment": "CORK and 5-1/2\" liner from 270 - 327 mbsf, 1992.", 
+        "Hole": "C", 
+        "Time on Hole(dd:hh:mm)": "3:22:10", 
+        "Arrival Date": "10/18/92 1120"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -125.1181, 
+          44.6756
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "22/94", 
+        "Leg": 146, 
+        "Coring Penetration (m)": "", 
+        "Core Recovered (m)": "", 
+        "Water Depth": "674", 
+        "Basement Penetration (m)": "0", 
+        "Site": 892, 
+        "Numbers of Cores": 1, 
+        "Total Penetration (m)": 178, 
+        "Core Recovered %": "", 
+        "Departure Date": "11/15/92 0820", 
+        "Location": "Oregon margin", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "178.5", 
+        "Special Hole Comment": "CORK and 5-1/2\" liner from 93.4 - 145.6 mbsf, 1992; logger removed 1995; hydrate experiment 1998", 
+        "Hole": "B", 
+        "Time on Hole(dd:hh:mm)": "2:11:34", 
+        "Arrival Date": "11/12/92 2046"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -83.7232, 
+          1.2168
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "86/191", 
+        "Leg": 148, 
+        "Coring Penetration (m)": "273.9", 
+        "Core Recovered (m)": "73.68", 
+        "Water Depth": "3448", 
+        "Basement Penetration (m)": "297", 
+        "Site": 896, 
+        "Numbers of Cores": 30, 
+        "Total Penetration (m)": 469, 
+        "Core Recovered %": "26.9", 
+        "Departure Date": "03/07/93 2145", 
+        "Location": "Costa Rica Rift - S flank", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "R", 
+        "Drilled (m)": "", 
+        "Special Hole Comment": "Wireline CORK 2001", 
+        "Hole": "A", 
+        "Time on Hole(dd:hh:mm)": "1:15:16", 
+        "Arrival Date": "03/06/93 0630"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -58.7317, 
+          15.5243
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "43/476/535", 
+        "Leg": 156, 
+        "Coring Penetration (m)": "", 
+        "Core Recovered (m)": "", 
+        "Water Depth": "4938", 
+        "Basement Penetration (m)": "0", 
+        "Site": 948, 
+        "Numbers of Cores": 1, 
+        "Total Penetration (m)": 538, 
+        "Core Recovered %": "", 
+        "Departure Date": "06/29/94 1500", 
+        "Location": "Barbados prism", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "538.0", 
+        "Special Hole Comment": "CORK 1994; logger and string removed 1995", 
+        "Hole": "D", 
+        "Time on Hole(dd:hh:mm)": "20:12: 0", 
+        "Arrival Date": "06/09/94 0300"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -58.7142, 
+          15.5369
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "46/398/465", 
+        "Leg": 156, 
+        "Coring Penetration (m)": "62.8", 
+        "Core Recovered (m)": "2.18", 
+        "Water Depth": "5005", 
+        "Basement Penetration (m)": "0", 
+        "Site": 949, 
+        "Numbers of Cores": 7, 
+        "Total Penetration (m)": 464, 
+        "Core Recovered %": "3.5", 
+        "Departure Date": "07/23/94 1915", 
+        "Location": "Barbados prism", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "R", 
+        "Drilled (m)": "", 
+        "Special Hole Comment": "CORK and bridge plug, 1994", 
+        "Hole": "C", 
+        "Time on Hole(dd:hh:mm)": "20:10:15", 
+        "Arrival Date": "07/03/94 0900"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -128.75, 
+          47.9089
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "39/166", 
+        "Leg": 168, 
+        "Coring Penetration (m)": "2.0", 
+        "Core Recovered (m)": "0.12", 
+        "Water Depth": "2612", 
+        "Basement Penetration (m)": "24", 
+        "Site": 1024, 
+        "Numbers of Cores": 1, 
+        "Total Penetration (m)": 176, 
+        "Core Recovered %": "6.0", 
+        "Departure Date": "08/02/96 0845", 
+        "Location": "East Flank Juan de Fuca Ridge", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "R", 
+        "Drilled (m)": "", 
+        "Special Hole Comment": "CORK 1996; sensor recovered 1999; new logger 2000", 
+        "Hole": "C", 
+        "Time on Hole(dd:hh:mm)": "2:17:45", 
+        "Arrival Date": "07/30/96 1500"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -128.648, 
+          47.8875
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "40/102", 
+        "Leg": 168, 
+        "Coring Penetration (m)": "41.1", 
+        "Core Recovered (m)": "15.16", 
+        "Water Depth": "2606", 
+        "Basement Penetration (m)": "46", 
+        "Site": 1025, 
+        "Numbers of Cores": 5, 
+        "Total Penetration (m)": 147, 
+        "Core Recovered %": "36.9", 
+        "Departure Date": "07/30/96 1500", 
+        "Location": "East Flank Juan de Fuca Ridge", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "R", 
+        "Drilled (m)": "", 
+        "Special Hole Comment": "CORK 1996; logger replaced 2000", 
+        "Hole": "C", 
+        "Time on Hole(dd:hh:mm)": "3:19:45", 
+        "Arrival Date": "07/26/96 1915"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -127.759, 
+          47.7627
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "40/249", 
+        "Leg": 168, 
+        "Coring Penetration (m)": "39.2", 
+        "Core Recovered (m)": "1.95", 
+        "Water Depth": "2658", 
+        "Basement Penetration (m)": "48", 
+        "Site": 1026, 
+        "Numbers of Cores": 5, 
+        "Total Penetration (m)": 295, 
+        "Core Recovered %": "5.0", 
+        "Departure Date": "08/07/96 1251", 
+        "Location": "East Flank Juan de Fuca Ridge", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "R", 
+        "Drilled (m)": "", 
+        "Special Hole Comment": "CORK 1996; biosphere experiment 1997; sensors removed 1999", 
+        "Hole": "B", 
+        "Time on Hole(dd:hh:mm)": "0:16: 6", 
+        "Arrival Date": "08/06/96 2045"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -127.731, 
+          47.7565
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "39/578", 
+        "Leg": 168, 
+        "Coring Penetration (m)": "47.6", 
+        "Core Recovered (m)": "29.13", 
+        "Water Depth": "2656", 
+        "Basement Penetration (m)": "57", 
+        "Site": 1027, 
+        "Numbers of Cores": 5, 
+        "Total Penetration (m)": 632, 
+        "Core Recovered %": "61.2", 
+        "Departure Date": "07/21/96 2100", 
+        "Location": "East Flank Juan de Fuca Ridge", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "R", 
+        "Drilled (m)": "", 
+        "Special Hole Comment": "CORK 1996; sensors recovered 1999; new logger 1999", 
+        "Hole": "C", 
+        "Time on Hole(dd:hh:mm)": "2: 0:45", 
+        "Arrival Date": "07/19/96 2015"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          88.1808, 
+          -17.0237
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "49/413", 
+        "Leg": 179, 
+        "Coring Penetration (m)": "", 
+        "Core Recovered (m)": "", 
+        "Water Depth": "1659", 
+        "Basement Penetration (m)": "123", 
+        "Site": 1107, 
+        "Numbers of Cores": 1, 
+        "Total Penetration (m)": 494, 
+        "Core Recovered %": "", 
+        "Departure Date": "05/28/98 0640", 
+        "Location": "90 degree E Ridge", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "493.8", 
+        "Special Hole Comment": "ION NERO site; seismometer planned 2004/2005", 
+        "Hole": "A", 
+        "Time on Hole(dd:hh:mm)": "5:10:17", 
+        "Arrival Date": "05/22/98 2024"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          143.3316, 
+          39.182
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "55/534/1035", 
+        "Leg": 186, 
+        "Coring Penetration (m)": "", 
+        "Core Recovered (m)": "", 
+        "Water Depth": "2681", 
+        "Basement Penetration (m)": "0", 
+        "Site": 1150, 
+        "Numbers of Cores": 3, 
+        "Total Penetration (m)": 1140, 
+        "Core Recovered %": "", 
+        "Departure Date": "07/28/99 1900", 
+        "Location": "Japan Trench", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "1139.8", 
+        "Special Hole Comment": "W Pacific ION seismometer/strain observatory 1999; 2nd deepest ODP casing.", 
+        "Hole": "D", 
+        "Time on Hole(dd:hh:mm)": "4:20:30", 
+        "Arrival Date": "07/23/99 2230"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          143.3336, 
+          38.7521
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "76/1068", 
+        "Leg": 186, 
+        "Coring Penetration (m)": "", 
+        "Core Recovered (m)": "", 
+        "Water Depth": "2182", 
+        "Basement Penetration (m)": "0", 
+        "Site": 1151, 
+        "Numbers of Cores": 1, 
+        "Total Penetration (m)": 1113, 
+        "Core Recovered %": "", 
+        "Departure Date": "08/09/99 1745", 
+        "Location": "Japan Trench", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "1113.0", 
+        "Special Hole Comment": "W Pacific ION seismometer/strain observatory 1999; deepest ODP casing.", 
+        "Hole": "B", 
+        "Time on Hole(dd:hh:mm)": "7: 0: 0", 
+        "Arrival Date": "08/02/99 1745"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          159.9633, 
+          41.0795
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "64/393", 
+        "Leg": 191, 
+        "Coring Penetration (m)": "", 
+        "Core Recovered (m)": "", 
+        "Water Depth": "5566", 
+        "Basement Penetration (m)": "28", 
+        "Site": 1179, 
+        "Numbers of Cores": 1, 
+        "Total Penetration (m)": 399, 
+        "Core Recovered %": "", 
+        "Departure Date": "08/25/00 0845", 
+        "Location": "NW Pacific", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "399.0", 
+        "Special Hole Comment": "NW Pacific ION seismic observatory 2000", 
+        "Hole": "E", 
+        "Time on Hole(dd:hh:mm)": "18:20:55", 
+        "Arrival Date": "08/06/00 1150"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          146.0029, 
+          13.7845
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "24/107/203", 
+        "Leg": 195, 
+        "Coring Penetration (m)": "0.0", 
+        "Core Recovered (m)": "", 
+        "Water Depth": "2932", 
+        "Basement Penetration (m)": "0", 
+        "Site": 1200, 
+        "Numbers of Cores": 1, 
+        "Total Penetration (m)": 140, 
+        "Core Recovered %": "", 
+        "Departure Date": "03/26/01 0500", 
+        "Location": "Mariana forearc", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "140.0", 
+        "Special Hole Comment": "CORK 2001", 
+        "Hole": "C", 
+        "Time on Hole(dd:hh:mm)": "11:14:31", 
+        "Arrival Date": "03/14/01 1430"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          135.0992, 
+          19.2976
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "39/527", 
+        "Leg": 195, 
+        "Coring Penetration (m)": "", 
+        "Core Recovered (m)": "", 
+        "Water Depth": "5710", 
+        "Basement Penetration (m)": "68", 
+        "Site": 1201, 
+        "Numbers of Cores": 2, 
+        "Total Penetration (m)": 580, 
+        "Core Recovered %": "", 
+        "Departure Date": "04/25/01 1100", 
+        "Location": "Philippine Sea", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "580.0", 
+        "Special Hole Comment": "W Pacific ION seismic observatory 2001", 
+        "Hole": "E", 
+        "Time on Hole(dd:hh:mm)": "11: 9:30", 
+        "Arrival Date": "04/14/01 0130"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          134.945, 
+          32.3536
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "157/927", 
+        "Leg": 196, 
+        "Coring Penetration (m)": "", 
+        "Core Recovered (m)": "", 
+        "Water Depth": "4675", 
+        "Basement Penetration (m)": "", 
+        "Site": 808, 
+        "Numbers of Cores": 1, 
+        "Total Penetration (m)": 1058, 
+        "Core Recovered %": "", 
+        "Departure Date": "06/28/01 1945", 
+        "Location": "Nankai Trough", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "1057.6", 
+        "Special Hole Comment": "Legs 131, 196; ACORK 2001; top 37 m on seafloor but fully functioning; 3rd deepest ODP casing", 
+        "Hole": "I", 
+        "Time on Hole(dd:hh:mm)": "14:18:16", 
+        "Arrival Date": "06/14/01 0130"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          135.0247, 
+          32.2447
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "121/728", 
+        "Leg": 196, 
+        "Coring Penetration (m)": "19.5", 
+        "Core Recovered (m)": "5.19", 
+        "Water Depth": "4791", 
+        "Basement Penetration (m)": "26", 
+        "Site": 1173, 
+        "Numbers of Cores": 3, 
+        "Total Penetration (m)": 757, 
+        "Core Recovered %": "26.6", 
+        "Departure Date": "06/29/01 2215", 
+        "Location": "Nankai Trough", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "737.1", 
+        "Special Hole Comment": "Legs 190, 196; ACORK 2001; 5th deepest ODP casing; broken-off pipe above bridge plug", 
+        "Hole": "B", 
+        "Time on Hole(dd:hh:mm)": "0:18:16", 
+        "Arrival Date": "06/29/01 0400"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -141.9792, 
+          27.8895
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "26/58", 
+        "Leg": 200, 
+        "Coring Penetration (m)": "33.5", 
+        "Core Recovered (m)": "15.65", 
+        "Water Depth": "4967", 
+        "Basement Penetration (m)": "37", 
+        "Site": 1224, 
+        "Numbers of Cores": 6, 
+        "Total Penetration (m)": 65, 
+        "Core Recovered %": "46.7", 
+        "Departure Date": "01/13/02 1817", 
+        "Location": "E Pacific", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "31.2", 
+        "Special Hole Comment": "H2O ION site, seismometer planned 2003", 
+        "Hole": "D", 
+        "Time on Hole(dd:hh:mm)": "13:22:48", 
+        "Arrival Date": "12/30/01 1930"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -110.0763, 
+          5.3009
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "48/212", 
+        "Leg": 203, 
+        "Coring Penetration (m)": "", 
+        "Core Recovered (m)": "", 
+        "Water Depth": "3871", 
+        "Basement Penetration (m)": "103", 
+        "Site": 1243, 
+        "Numbers of Cores": 1, 
+        "Total Penetration (m)": 212, 
+        "Core Recovered %": "", 
+        "Departure Date": "06/25/02 1430", 
+        "Location": "Eastern Equatorial Pacific", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "212.0", 
+        "Special Hole Comment": "E Pacific ION, seismometer to be planned 2003/2004/2005?", 
+        "Hole": "A", 
+        "Time on Hole(dd:hh:mm)": "0:18:16", 
+        "Arrival Date": "06/24/02 2015"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -86.1906, 
+          9.6476
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "44/413", 
+        "Leg": 205, 
+        "Coring Penetration (m)": "230.0", 
+        "Core Recovered (m)": "148.65", 
+        "Water Depth": "4376", 
+        "Basement Penetration (m)": "87", 
+        "Site": 1253, 
+        "Numbers of Cores": 43, 
+        "Total Penetration (m)": 600, 
+        "Core Recovered %": "64.6", 
+        "Departure Date": "10/11/02 0945", 
+        "Location": "Costa Rica Trench", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "370.0", 
+        "Special Hole Comment": "CORK II 2002", 
+        "Hole": "A", 
+        "Time on Hole(dd:hh:mm)": "19:19:15", 
+        "Arrival Date": "09/21/02 1430"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -86.1788, 
+          9.662
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "20/199", 
+        "Leg": 205, 
+        "Coring Penetration (m)": "", 
+        "Core Recovered (m)": "", 
+        "Water Depth": "4176", 
+        "Basement Penetration (m)": "0", 
+        "Site": 1254, 
+        "Numbers of Cores": 1, 
+        "Total Penetration (m)": 278, 
+        "Core Recovered %": "", 
+        "Departure Date": "11/03/02 1600", 
+        "Location": "Costa Rica Trench", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "278.0", 
+        "Special Hole Comment": "CORK II 4-1/2\" casing broke-off and junked hole.  Retrieved CORK wellhead.", 
+        "Hole": "B", 
+        "Time on Hole(dd:hh:mm)": "1: 0: 0", 
+        "Arrival Date": "11/02/02 1600"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -86.1858, 
+          9.6545
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "20/118", 
+        "Leg": 205, 
+        "Coring Penetration (m)": "34.0", 
+        "Core Recovered (m)": "7.22", 
+        "Water Depth": "4312", 
+        "Basement Penetration (m)": "0", 
+        "Site": 1255, 
+        "Numbers of Cores": 4, 
+        "Total Penetration (m)": 157, 
+        "Core Recovered %": "21.2", 
+        "Departure Date": "11/02/02 1600", 
+        "Location": "Costa Rica Trench", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "123.0", 
+        "Special Hole Comment": "CORK II 2002", 
+        "Hole": "A", 
+        "Time on Hole(dd:hh:mm)": "6:18:45", 
+        "Arrival Date": "10/26/02 2116"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -127.7639, 
+          47.7535
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "", 
+        "Leg": 301, 
+        "Coring Penetration (m)": "", 
+        "Core Recovered (m)": "", 
+        "Water Depth": "2656", 
+        "Basement Penetration (m)": "108", 
+        "Site": 1301, 
+        "Numbers of Cores": 1, 
+        "Total Penetration (m)": 370, 
+        "Core Recovered %": "", 
+        "Departure Date": "07/21/04 0000", 
+        "Location": "Juan de Fuca Hydrogeology", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "369.5", 
+        "Special Hole Comment": "Single level CORK II.", 
+        "Hole": "A", 
+        "Time on Hole(dd:hh:mm)": "3:14:15", 
+        "Arrival Date": "07/17/04 0946"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -127.7638, 
+          47.7538
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "", 
+        "Leg": 301, 
+        "Coring Penetration (m)": "231.6", 
+        "Core Recovered (m)": "69.05", 
+        "Water Depth": "", 
+        "Basement Penetration (m)": "318", 
+        "Site": 1301, 
+        "Numbers of Cores": 36, 
+        "Total Penetration (m)": 583, 
+        "Core Recovered %": "29.8", 
+        "Departure Date": "08/18/04 1030", 
+        "Location": "Juan de Fuca Hydrogeology", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "351.2", 
+        "Special Hole Comment": "Multi-level CORK II.", 
+        "Hole": "B", 
+        "Time on Hole(dd:hh:mm)": "9:18:45", 
+        "Arrival Date": "08/08/04 1545"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.9374, 
+          67.2123
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Casing (m)": "", 
+        "Leg": 306, 
+        "Coring Penetration (m)": "", 
+        "Core Recovered (m)": "", 
+        "Water Depth": "1272", 
+        "Basement Penetration (m)": "", 
+        "Site": 1315, 
+        "Numbers of Cores": 1, 
+        "Total Penetration (m)": 179, 
+        "Core Recovered %": "", 
+        "Departure Date": "04/19/05 1645", 
+        "Location": "North Atlantic", 
+        "Special Hole Type": "Borehole observatory", 
+        "Core Type(s)": "0", 
+        "Drilled (m)": "179.1", 
+        "Special Hole Comment": "CORK", 
+        "Hole": "A", 
+        "Time on Hole(dd:hh:mm)": "4: 3:25", 
+        "Arrival Date": "04/15/05 1120"
+      }
+    }
+  ]
+}
